@@ -73,18 +73,20 @@ feishu-writing-bundle/
 
 ### Lark Markdown 特殊语法
 
+Callout 高亮块：
 ```html
-<!-- Callout 高亮块 -->
 <callout emoji="💡" background-color="light-blue">内容</callout>
+```
 
-<!-- 分栏 -->
+分栏：
+```html
 <grid cols="2"><column>左</column><column>右</column></grid>
+```
 
-<!-- Mermaid 图表（自动转飞书画板） -->
+Mermaid 图表（自动转飞书画板）：
 ```mermaid
 graph TD
     A[开始] --> B[结束]
-```
 ```
 
 ---
