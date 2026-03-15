@@ -99,8 +99,8 @@ graph TD
 
 | 文档 | 说明 |
 |------|------|
-| [OpenClaw 入门文档（基于现有项目资料整理）](https://fudan-nlp.feishu.cn/wiki/WZVMwUEnXiHUqLkfzDycSp9en2c) | 龙虾从零检索项目资料、自主整理写成的 wiki 文档 |
-| [MOVA 推理加速 (SGLang) 工作汇总](https://fudan-nlp.feishu.cn/docx/HdWfdNomtoGd7yxL3gVcFgrhnnb) | 技术工作汇总，结构化、可协作的正式交付物 |
+| [OpenClaw 飞书写作最佳实践](https://fudan-nlp.feishu.cn/wiki/WZVMwUEnXiHUqLkfzDycSp9en2c) | 飞书写作方法论与最佳实践沉淀，本 skill 的知识来源之一 |
+| [飞书文档写作相关 Skills 说明（给龙虾同学）](https://fudan-nlp.feishu.cn/docx/HdWfdNomtoGd7yxL3gVcFgrhnnb) | 对 feishu-writing-bundle 各能力的说明文档，也是 0312 水平写作效果的展示案例 |
 
 ---
 
