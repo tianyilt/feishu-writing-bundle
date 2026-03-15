@@ -87,6 +87,23 @@ graph TD
 
 ---
 
+## 实际效果案例
+
+下图展示了龙虾使用这套 skill 前后写出的飞书文档对比（0307 → 0312）：
+
+![写作效果对比](./docs/claw-write-diff.png)
+
+> 写作能 work 主要靠两件事：蒸馏作者本人的写作风格 + 每天反思写作的上下文 SOP 持续优化。这个整合包是这套方法论的产物。
+
+### 案例文档
+
+| 文档 | 说明 |
+|------|------|
+| [OpenClaw 入门文档（基于现有项目资料整理）](https://fudan-nlp.feishu.cn/wiki/WZVMwUEnXiHUqLkfzDycSp9en2c) | 龙虾从零检索项目资料、自主整理写成的 wiki 文档 |
+| [MOVA 推理加速 (SGLang) 工作汇总](https://fudan-nlp.feishu.cn/docx/HdWfdNomtoGd7yxL3gVcFgrhnnb) | 技术工作汇总，结构化、可协作的正式交付物 |
+
+---
+
 ## 三条铁律
 
 1. **完成标准是链接，不是文字** — 没有 doc_url，任务未完成
