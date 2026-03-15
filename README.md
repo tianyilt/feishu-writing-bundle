@@ -2,11 +2,13 @@
 
 > 🦞 OpenClaw 飞书文档写作整合包
 
-![写作效果对比](./docs/claw-write-diff.png)
+
 
 让龙虾只看这一份 skill，就能独立完成从零到链接交付的完整飞书文档写作任务。
 
 ---
+## 写作效果对比图
+![写作效果对比](./docs/claw-write-diff.png)
 
 ## 覆盖能力
 
