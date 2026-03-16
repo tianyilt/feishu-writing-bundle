@@ -101,6 +101,7 @@ selection_by_title: "## 章节标题"               // 自动选中整章
 ```
 
 > ⚠️ 只用围栏代码块（ \`\`\`lang ... \`\`\` ），禁用缩进代码块
+> ⚠️ 文档内链接**必须**用 `[文字](https://...)` 内联格式，**禁止**用 `<https://...>` autolink 格式——飞书 docx MCP 会把尖括号原样显示或吞掉链接，不会渲染成可点击超链接
 
 ### Callout（高亮块）
 
@@ -185,6 +186,7 @@ graph TD
 | 直接 overwrite 改稿 | 先 fetch，再 replace_range |
 | sessions_spawn 幻觉 agentId | 用 agents_list 确认；或直接调工具，不走 spawn |
 | 工具失败后连发"我在继续" | 一句说明 + 立刻调备选路径 |
+| 文档内写 `<https://...>` 裸链接 | 改成 `[文字](https://...)` 内联超链接 |
 
 ---
 
